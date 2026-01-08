@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<![tumblr_f797b4967914c719a2faab5c0c4f7015_ee761798_400](https://github.com/user-attachments/assets/44e483a3-52b2-4b4e-b10b-b844ea355015)>
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/edade50f-d92a-41bc-8c31-df4feca65801" />
 </p>
