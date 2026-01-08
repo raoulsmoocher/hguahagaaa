@@ -10,3 +10,7 @@
 <p align="center">
 wip blehhh
 </p>
+
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/i%20love%20raoul-(*%C2%AF%20%C2%B3%C2%AF*)%E2%99%A1-%23ffcbe1">
+</p>
