@@ -12,7 +12,7 @@ wip blehhh + strawpage in the making i'm a lazy chud
 </p>
 
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/i%20love%20raoul-(*%C2%AF%20%C2%B3%C2%AF*)%E2%99%A1-%23ffcbe1">
+<img alt="Static Badge" src="https://img.shields.io/badge/i_love_raoul-(*%C2%AF%20%C2%B3%C2%AF*)%E2%99%A1-f7d6e6?style=plastic&color=f7d6e6">
 </p>
 
 
